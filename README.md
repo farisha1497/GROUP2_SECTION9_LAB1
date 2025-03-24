@@ -1,11 +1,11 @@
 # Understanding OWASP: Preventing Security Misconfigurations and Real-World Threats
 
 Group Members:
-Nur Shakirah I'zzah Zamri
-Nursyahmina Mosdy
-Syamilia Nur Najwa Mohd.syahiram
-Umairah Natasha Zainal Abidin
-Nurfarisha Kamarrudin
+- Nur Shakirah I'zzah Zamri
+- Nursyahmina Mosdy
+- Syamilia Nur Najwa Mohd.syahiram
+- Umairah Natasha Zainal Abidin
+- Nurfarisha Kamarrudin
 
 Lecturer:
 Cik Feresa Mohd Foozy
