@@ -1,4 +1,4 @@
-# Understanding OWASP: Preventing Security Misconfigurations and Real-World Threats
+# Cybersecurity Risks and OWASP: Lessons from Security Misconfigurations
 
 Group Members:
 - Nur Shakirah I'zzah Zamri
